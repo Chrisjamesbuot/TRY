@@ -1,0 +1,16 @@
+{
+  "name": "buot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "verify": "how-to-markdown verify",
+    "start": "how-to-markdown",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "how-to-markdown": "^1.6.0"
+  }
+}
